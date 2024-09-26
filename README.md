@@ -112,16 +112,16 @@ Figure 2: Sitemap of Admin Dashboard
 
 ## Use Case Diagram
 
-<div><img src="https://github.com/user-attachments/assets/3de9818a-2c64-43b5-9526-9549b434d7c3" width="300" height="400" /></div>
+<div><img src="https://github.com/user-attachments/assets/3de9818a-2c64-43b5-9526-9549b434d7c3" width="500" height="600" /></div>
 Figure 3: Use-case diagram of Lucia club
 
 
 ## Activity Diagram
 
-<div><img src="https://github.com/user-attachments/assets/c550254d-9649-4261-8f36-7f78ef0a5a75" width="300" height="400" /></div>
+<div><img src="https://github.com/user-attachments/assets/c550254d-9649-4261-8f36-7f78ef0a5a75" width="450" height="550" /></div>
 Figure 4: Activity Diagram of Lucia club
 
-<div><img src="https://github.com/user-attachments/assets/53b878cf-76cb-4f66-84b4-ea740917edd4" width="300" height="400" /></div>
+<div><img src="https://github.com/user-attachments/assets/53b878cf-76cb-4f66-84b4-ea740917edd4" width="450" height="500" /></div>
 Figure 5: Activity diagram of Admin Dashboard
 
 
