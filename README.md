@@ -105,7 +105,7 @@ To implement the project successfully, follow these steps:
 
 <div><img src="https://github.com/user-attachments/assets/c6b39a76-e63e-458e-bbc9-2077d383ca05" width="800" height="400" /></div>
 Figure 1: Sitemap of Lucia club
-<div><img src="https://github.com/user-attachments/assets/34218c61-736a-409b-8953-ac305f6364c8" width="800" height="400" /></div>
+<div><img src="https://github.com/user-attachments/assets/34218c61-736a-409b-8953-ac305f6364c8" width="400" height="100" /></div>
 Figure 2: Sitemap of Admin Dashboard
 
 
