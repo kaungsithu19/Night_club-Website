@@ -101,3 +101,20 @@ To implement the project successfully, follow these steps:
 - **Past Events:** Access past event information.
 - **Artists:** Browse through the list of artists performing at the club.
 
+## Sitemap
+
+![image](https://github.com/user-attachments/assets/c6b39a76-e63e-458e-bbc9-2077d383ca05)
+![image](https://github.com/user-attachments/assets/34218c61-736a-409b-8953-ac305f6364c8)
+
+
+
+## Use Case Diagram
+
+![image](https://github.com/user-attachments/assets/3de9818a-2c64-43b5-9526-9549b434d7c3)
+
+## Activity Diagram
+
+![image](https://github.com/user-attachments/assets/c550254d-9649-4261-8f36-7f78ef0a5a75)
+![image](https://github.com/user-attachments/assets/53b878cf-76cb-4f66-84b4-ea740917edd4)
+
+
